@@ -108,4 +108,16 @@ h2{
     .mobile-h1{
         display: block;
     }
+    .main-container h1{
+        
+        
+        
+    }
+    .main-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
 }
