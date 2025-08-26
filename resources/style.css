@@ -110,8 +110,11 @@ h2{
     }
     .main-container h1{
         
+    
         
-        
+    }
+    body{
+        height: 100%;
     }
     .main-container{
         display: flex;
